@@ -1,0 +1,11 @@
+{
+    "patents": [
+      { "id": 1, "title": "AI Patent", "description": "Patent for AI technology." },
+      { "id": 2, "title": "Blockchain Patent", "description": "Patent for blockchain technology." }
+    ],
+    "users": [
+      { "id": 1, "name": "Michael O'Brien" },
+      { "id": 2, "name": "Adam Sparkes" }
+    ]
+  }
+  
